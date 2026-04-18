@@ -1,6 +1,6 @@
 🎬 Netflix Clone (Frontend)
 
-A responsive Netflix India landing page clone built using HTML and CSS. This project focuses on recreating the UI design of Netflix’s homepage with modern layout techniques and responsive design.
+A responsive Netflix India landing page clone built using HTML and CSS. This project focuses on recreating the UI design of Netflix’s homepage with modern layout techniques and responsive design.<br>
 
 📌 Features
 🔥 Clean and modern Netflix-style UI
@@ -10,25 +10,31 @@ A responsive Netflix India landing page clone built using HTML and CSS. This pro
 ❓ FAQ section with hover effects
 📂 Structured footer layout
 🌐 Google Fonts integration
-
+<br>
+<ul>
 🛠️ Tech Stack
-HTML5
-CSS3 (Flexbox + Grid)
-Responsive Design (Media Queries)
+<li>HTML5</li>
+<li>CSS3 (Flexbox + Grid)</li>
+<li>Responsive Design (Media Queries)</li>
+</ul>
 
-Netflix-Clone/
-│
-├── index.html
-├── style.css
-├── assets/
-│   ├── bg.jpg
-│   ├── logo.svg
-│   └── images/videos
-└── README.md
+<br>
+Netflix-Clone/<br>
+│<br>
+├── index.html<br>
+├── style.css<br>
+├── assets/<br>
+│   ├── bg.jpg<br>
+│   ├── logo.svg<br>
+│   └── images/videos<br>
+└── README.md<br>
+<br>
 
+<ul>
 🎯 What I Learned
-Building real-world UI using only HTML & CSS
-Using Flexbox & Grid for layout design
-Creating responsive designs with media queries
-Positioning elements (absolute & relative)
-Overlay effects (video inside image frames)
+<li>Building real-world UI using only HTML & CSS</li>
+<li>Using Flexbox & Grid for layout design</li>
+<li>Creating responsive designs with media queries</li>
+<li>Positioning elements (absolute & relative)</li>
+<li>Overlay effects (video inside image frames)</li>
+</ul>
